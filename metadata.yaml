@@ -1,0 +1,29 @@
+_repo: The-Story-of-Alchemy-and-the-Beginnings-of-Chemistry_14218
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Muir, M. M. Pattison (Matthew Moncrieff Pattison)
+    alias: Muir, Matthew Moncrieff Pattison
+    birthdate: 1848
+    deathdate: 1931
+    gutenberg_agent_id: '5412'
+    url: http://www.gutenberg.org/2009/agents/5412
+description: ''
+gutenberg_bookshelf: Chemistry
+gutenberg_issued: '2004-11-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14218'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Chemistry -- History'
+- !lcsh 'Alchemy'
+- !lcc 'QD'
+title: The Story of Alchemy and the Beginnings of Chemistry
+url: http://www.gutenberg.org/ebooks/14218
